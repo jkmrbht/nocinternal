@@ -7,6 +7,6 @@
 	//}],
 	//"start_url": "./index.html?homescreen=1",
 	//"display": "standalone",
-	//"gcm_sender_id": "112273261716" NOC
-	"gcm_sender_id": "851178970769"  //Sharded
+	"gcm_sender_id": "112273261716" //NOC
+	//"gcm_sender_id": "851178970769"  //Sharded
 }
