@@ -1,7 +1,8 @@
 function __wizrocket() {
 
 
-    var targetDomain = 'wzrkt.com';
+    var targetDomain = 'sk1.clevertap.com';
+        //'wzrkt.com';
      //var targetDomain = 'localhost:6061'; //ALWAYS comment this line before deploying
 
     var wz_pr = "https:";
