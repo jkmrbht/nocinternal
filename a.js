@@ -1,7 +1,7 @@
 function __wizrocket() {
 
 
-    var targetDomain = 'sk1.wzrkt.com';
+    var targetDomain = 'sk1-staging-4.wzrkt.com';
         //'wzrkt.com';
      //var targetDomain = 'localhost:6061'; //ALWAYS comment this line before deploying
 
